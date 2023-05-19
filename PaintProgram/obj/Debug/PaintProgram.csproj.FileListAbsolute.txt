@@ -8,3 +8,14 @@ C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\PaintProgram\obj\Debug\PaintProgram.
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\PaintProgram\obj\Debug\PaintProgram.exe
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\PaintProgram\obj\Debug\PaintProgram.pdb
 C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\PaintProgram\obj\Debug\PaintProgram.Pinturitas.resources
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\bin\Debug\PaintProgram.exe.config
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\bin\Debug\PaintProgram.exe
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\bin\Debug\PaintProgram.pdb
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.Pinturitas.resources
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.exe
+C:\Users\LAB-DSC-ITT\Documents\GitHub\U2_Paint\PaintProgram\obj\Debug\PaintProgram.pdb
